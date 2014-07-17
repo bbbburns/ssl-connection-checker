@@ -59,6 +59,7 @@ public class SSLConnectionChecker extends ActionBarActivity {
 			//Use dnsjava instead of InetAddress to do the lookup
 			
 			//TO-DO Really need to separate this into another class.
+			//Another Comment to see how things run.
 				
 			Lookup lookup = null;
 			try {
